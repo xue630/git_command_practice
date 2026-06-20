@@ -30,5 +30,5 @@
 `git add . #添加到暂存区`
 `git commit -m "" # 提交到本地仓库`
 `git push origin <name> # 将代码提交到远程分支name`
-`git log --online # 查看提交日志`
+`git log --oneline # 查看提交日志`
 `git revert <hash> # 回滚到对应版本`
