@@ -26,7 +26,6 @@
 `git pull # 从远程拉取最新代码 `
 `git branch # 查看分支`
 `git branch <name> # 创建分支name`
-`git push -u origin <name> # 自动创建远程分支`
 `git checkout <name> # 切换到分支name`
 `git add . #添加到暂存区`
 `git commit -m "" # 提交到本地仓库`
